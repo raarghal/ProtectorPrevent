@@ -1,6 +1,11 @@
 ### Description
-This repository contains the data and code for "Protect or prevent? A practicable framework for the dilemmas of COVID-19 vaccine prioritization" [1]. Contact matrix data are retrieved from [2].
+This repository contains the data and code for "Protect or prevent? A practicable framework for the dilemmas of COVID-19 vaccine prioritization" [1]. 
 
+### Data
+Contact matrix data are retrieved from [2].
+
+### Code
+Simulation contains Python code to simulate different simple strategies (i.e. ordering over the different population groups.
 
 ### References
 [1] Arghal, R., Rubin, H., Bidokhti, S. S., & Sarkar, S. (2023). Protect or prevent? A practicable framework for the dilemmas of COVID-19 vaccine prioritization. medRxiv, 2023-12.
